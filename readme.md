@@ -1,11 +1,12 @@
 
 # Readme
-
 * 🥇**These two simple Five-In-Row and Three-In_Row are based on α-β Pruning algorithm**
 * 🐊**Using CodeBlocks to develop**
 * Two Steps to Run Source Code:
   - Download .cpp file
   - Open and run in CodeBlocks or other IDE
+* Future Improvement: Add User Interface(UI, maybe based on QT)
+* Any communication and help is welcome 👋👋👋👋👋👋👋👋👋
 
 ## Example
 ### Five-in-Row:
