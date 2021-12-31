@@ -9,6 +9,6 @@
 
 ## Example
 ### Five-in-Row:
-![image](https://user-images.githubusercontent.com/65277980/147806581-03661bf8-7cfa-4255-9e0f-b28783caaa0d.png)
+![image](https://user-images.githubusercontent.com/65277980/147806626-d59b1b08-da96-451f-8fe6-8981d70274bf.png)
 ### Three-in-Row:
 ![image](https://user-images.githubusercontent.com/65277980/147806597-67fd9018-47fd-4081-b6d0-ffee32420e75.png)
